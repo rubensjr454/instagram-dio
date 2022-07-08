@@ -1,0 +1,115 @@
+body {
+  margin: auto;
+  background-color: #f8f8f8 ;
+  margin: 0 auto;
+  width: 75%;
+}
+
+.enter {
+  background: #ffff;
+  margin: auto;
+  margin-top: 5rem;
+  width: 50%;
+}
+
+div .logo {
+margin-right: 2rem;
+width: 29rem;
+}
+
+.text-box{
+  margin: auto;
+  margin-top: 5rem;
+  width: 34%;
+  columns: 2;
+}
+
+.name{
+  background:#f8f8f8;
+
+  border: 0.5rem;
+  border-color:#b8b6b6;
+  border-radius: 0.2rem;
+  
+  margin-top: 0.2rem;
+}
+
+.senha{
+  background:#f8f8f8;
+
+  border: 0.5rem;
+  border-color:#b8b6b6;
+  border-radius: 0.2rem;
+  
+  margin-top: 0.5rem;
+
+ 
+}
+
+a .button{
+  background:#9ef0f0;
+  color:#f8f8f8;
+
+  border: 0.5rem;
+  border-radius: 0.3rem;
+
+  margin-left: 12rem;
+    margin-top: 0.5rem;
+    width: 20%;
+    columns: 2;
+}
+
+.separa{
+  margin-left: 8rem;
+}
+
+.facebook{
+  display: flex;
+    margin-left: 9rem;
+}
+
+button{
+  background:#ffff;
+  color: #0d09f5;
+
+  border:0;
+}
+
+.pass{
+  display: flex;
+  margin-left: -8.5rem;
+  margin-top: 5rem;
+  flex-direction: column;
+}
+
+.new-accont{
+  background: #ffff;
+
+  margin-right: 15rem;
+  margin-left: 15rem;
+  margin-top: 5rem;
+}
+
+.accont{
+  display: flex;
+  justify-content: center;
+}
+
+footer{
+  padding: 2rem;
+  display: flex;
+  justify-content: center;
+}
+
+img .gplay{
+  max-width: 0.5rem;
+  max-height: 0.5rem;
+  height: auto;
+  width: auto;
+  
+}
+
+
+
+
+
